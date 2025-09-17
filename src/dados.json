@@ -1,0 +1,88 @@
+{
+  "animais": [
+    {
+      "id": "A1",
+      "nome": "Leão",
+      "especie": "Panthera leo",
+      "imagem": "https://images.unsplash.com/photo-1552410260-0fd9b577afa6?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "A2",
+      "nome": "Elefante",
+      "especie": "Loxodonta africana",
+      "imagem": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "A3",
+      "nome": "Pinguim Imperador",
+      "especie": "Aptenodytes forsteri",
+      "imagem": "https://images.unsplash.com/photo-1551524164-6cf2ac531d4e?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "A4",
+      "nome": "Girafa",
+      "especie": "Giraffa camelopardalis",
+      "imagem": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=400&h=300&fit=crop"
+    }
+  ],
+  "livros": [
+    {
+      "id": "L1",
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano": 1954,
+      "capa": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "L2",
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano": 1949,
+      "capa": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "L3",
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "ano": 1605,
+      "capa": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "L4",
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "ano": 1953,
+      "capa": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=300&fit=crop"
+    }
+  ],
+  "pessoas": [
+    {
+      "id": "P1",
+      "nome": "Marie Curie",
+      "nascimento": "1867-11-07",
+      "area": "Física e Química",
+      "foto": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "P2",
+      "nome": "Albert Einstein",
+      "nascimento": "1879-03-14",
+      "area": "Física",
+      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "P3",
+      "nome": "Ada Lovelace",
+      "nascimento": "1815-12-10",
+      "area": "Matemática e Computação",
+      "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=300&fit=crop"
+    },
+    {
+      "id": "P4",
+      "nome": "Isaac Newton",
+      "nascimento": "1643-01-04",
+      "area": "Física e Matemática",
+      "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=300&fit=crop"
+    }
+  ]
+}
