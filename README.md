@@ -1,6 +1,7 @@
-# 📚 MultiCatálogo - Versão Ultra Simplificada
+# 📚 MultiCatálogo - Lucas Jardim Rocha
 
-## 🎯 Estrutura Mínima (Apenas 4 arquivos!)
+
+## 🎯 Estrutura 
 
 ```
 src/
@@ -10,14 +11,6 @@ src/
 └── main.tsx     # Ponto de entrada
 ```
 
-## 🚀 Como Executar
-
-```bash
-cd meu-catalogo-ts
-npm run dev
-```
-
-Acesse: `http://localhost:5174/`
 
 ## ✨ Funcionalidades
 
